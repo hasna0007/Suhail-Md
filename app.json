@@ -1,7 +1,7 @@
 {
-  "name": "suhail-md@1.3.1",
-  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
-  "logo": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg",
+  "name": "𝐂𝚫𝚻 𝐒𝚸𝐘@1.3.1",
+  "description": "I am 𝐂𝚫𝚻 𝐒𝚸𝐘 Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem whatsapp me on : +917034167123",
+  "logo": "https://telegra.ph/file/f1ae2cd1d9d934d9c2465.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷",
       "required" :true
     },   
      
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "value": "𝐂𝚫𝚻 𝐒𝚸𝐘"
     }, 
     "USER_IMAGES": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/758549f0de2219884f387.jpg,https://telegra.ph/file/9498496b010dfb5900b80.jpg,https://telegra.ph/file/59bf80efbb6e6576b5a52.jpg,https://telegra.ph/file/ee0e191363161e88e4743.jpg"
+      "value": "https://telegra.ph/file/c6a8c089a3767379ba9e9.jpg,https://telegra.ph/file/f1ae2cd1d9d934d9c2465.jpg,https://telegra.ph/file/59bf80efbb6e6576b5a52.jpg,https://telegra.ph/file/ee0e191363161e88e4743.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -128,12 +128,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "𝐂𝚫𝚻 𝐒𝚸𝐘",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷",
       "required": false 
     },
     "STACK": {
