@@ -26,7 +26,7 @@ global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://te
 
 global.devs = "917034167123" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "917034167123";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "917034167123,918547968694";
 
 
 
@@ -42,21 +42,21 @@ global.disablepm = process.env.DISABLE_PM || "false"
 global.disablegroup = process.env.DISABLE_GROUPS || "false", // disable bot in groups when public mode
 
 global.MsgsInLog = process.env.MSGS_IN_LOG|| "false" // "true"  to see messages , "log" to open logs , "false" to hide logs messages
-global.userImages= process.env.USER_IMAGES || "https://telegra.ph/file/f1ae2cd1d9d934d9c2465.jpg,https://telegra.ph/file/c6a8c089a3767379ba9e9.jpg,https://telegra.ph/file/59bf80efbb6e6576b5a52.jpg,https://telegra.ph/file/ee0e191363161e88e4743.jpg" // ramadan Theme Images
+global.userImages= process.env.USER_IMAGES || "https://telegra.ph/file/f1ae2cd1d9d934d9c2465.jpg,https://telegra.ph/file/c6a8c089a3767379ba9e9.jpg,https://telegra.ph/file/d28bd0e4deb629e50ff31.jpg,https://telegra.ph/file/6812574996083f2e3389a.jpg" // 𝐂𝚫𝚻 𝐒𝚸𝐘 Images
 global.waPresence= process.env.WAPRESENCE ||  "set according to your need" ; // 'unavailable' | 'available' | 'composing' | 'recording' | 'paused'
 
 
 //========================= [ AUTO READ MSGS & CMDS ] =========================\\
 global.readcmds = process.env.READ_COMMAND || "false"
 global.readmessage = process.env.READ_MESSAGE || "false"
-global.readmessagefrom = process.env.READ_MESSAGE_FROM || "917034167123,917xxxxxxxxx";
+global.readmessagefrom = process.env.READ_MESSAGE_FROM || "917034167123,918547968694";
 
 
 //========================= [ AUTO SAVE & READ STATUS ] =========================\\
 global.read_status = process.env.AUTO_READ_STATUS || "false"
 global.save_status = process.env.AUTO_SAVE_STATUS || "false"
-global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,917xxxxxxxxx";
-global.read_status_from =  process.env.READ_STATUS_FROM  ||  "917034167123,917xxxxxxxxx";
+global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,917034167123";
+global.read_status_from =  process.env.READ_STATUS_FROM  ||  "917034167123,918547968694";
 
 global.api_smd = "https://api-smd-1.vercel.app"
 global.scan = "https://suhail-md-vtsf.onrender.com/";
